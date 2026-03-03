@@ -2,6 +2,18 @@
 
 
 
+!\[Jenkins](https://img.shields.io/badge/Jenkins-CI-blue)
+
+!\[Docker](https://img.shields.io/badge/Docker-Container-blue)
+
+!\[GitHub](https://img.shields.io/badge/GitHub-Repository-black)
+
+!\[Status](https://img.shields.io/badge/Build-Passing-brightgreen)
+
+\# Jenkins CI/CD Pipeline Project 🚀
+
+
+
 \## 📌 Overview
 
 This project demonstrates a simple CI pipeline using:
