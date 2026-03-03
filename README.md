@@ -2,8 +2,6 @@
 
 
 
-\[Jenkins](https://img.shields.io/static/v1?label=Jenkins\&message=CI\&color=blue) !\[Docker](https://img.shields.io/static/v1?label=Docker\&message=Container\&color=blue) !\[GitHub](https://img.shields.io/static/v1?label=GitHub\&message=Repository\&color=black) !\[Build](https://img.shields.io/static/v1?label=Build\&message=Passing\&color=brightgreen)
-
 
 
 \## 📌 Overview
