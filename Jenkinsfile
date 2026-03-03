@@ -5,7 +5,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Building project...'
-                bat 'type app.txt'
+                sh 'cat app.txt'
             }
         }
 
