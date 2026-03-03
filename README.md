@@ -10,8 +10,6 @@
 
 !\[Status](https://img.shields.io/badge/Build-Passing-brightgreen)
 
-\# Jenkins CI/CD Pipeline Project 🚀
-
 
 
 \## 📌 Overview
